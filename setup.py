@@ -14,7 +14,7 @@ setup(
     long_description=open('README.md').read(),
     keywords = "xml tcx parser python garmin",
     classifiers=[
-        'Development Status :: 3 - Alpha,
+        'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
