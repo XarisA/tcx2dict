@@ -5,12 +5,12 @@ __version__ = '0.1'
 setup(
     name='tcx2dict',
     version=__version__,
-    author='Xaris Ar.',
+    author='Xaris Arvanitis.',
     author_email='xaris@gmx.com',
     py_modules=[''],
     url='',
     license='MIT',
-    description='Analisis tools for Garmin Data',
+    description='Module that reads data from tcx and stores them in dictionary',
     long_description=open('README.md').read(),
     keywords = "xml tcx parser python garmin",
     classifiers=[
@@ -22,6 +22,6 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
     install_requires=[
-        "tcxparser",
+        "python-tcxparser",
      ]
 )
