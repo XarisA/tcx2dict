@@ -1,6 +1,6 @@
 # tcx2dict
 
-tcx2dict stores tcx data in a dictionary having a (#Lap,#measurement#) tuple as a key.
+tcx2dict stores tcx data in a dictionary having a (#Lap,#measurement) tuple as a key.
 
 Example:
 

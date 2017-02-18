@@ -5,7 +5,7 @@ __version__ = '0.1'
 setup(
     name='tcx2dict',
     version=__version__,
-    author='Xaris Arvanitis.',
+    author='Haris Arvanitis.',
     author_email='xaris@gmx.com',
     py_modules=[''],
     url='',
@@ -14,7 +14,7 @@ setup(
     long_description=open('README.md').read(),
     keywords = "xml tcx parser python garmin",
     classifiers=[
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
