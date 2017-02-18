@@ -5,7 +5,7 @@ __version__ = '0.1'
 setup(
     name='tcx2dict',
     version=__version__,
-    author='Haris Arvanitis.',
+    author='Harris Arvanitis.',
     author_email='xaris@gmx.com',
     py_modules=[''],
     url='',
