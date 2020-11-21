@@ -18,18 +18,27 @@ Running: /home/xaris/bin/git/tcx2dict/tcx2dict/ttd.py (Sat Feb 18 17:40:10 2017)
 
 ## Data Explanation:
 
-`MyDictionary[0,1]` _returns data from 1st Lap , 2nd Measurement._
+```python
+MyDictionary[0,1]
+```
+_returns data from 1st Lap , 2nd Measurement._
 
-_['2017-02-11T06:48:34.000Z', 3.760009765625, 87]_
+`['2017-02-11T06:48:34.000Z', 3.760009765625, 87]`
+
 
 ### _Get Datetime in isoformat_
-`MyDictionary[0,1][0]`
+
+```python
+MyDictionary[0,1][0]
+```
 
 _'2017-02-11T06:48:34.000Z'_
 
 ### _Get Distance_
 
-`MyDictionary[0,1][1]`
+```python
+MyDictionary[0,1][1]
+```
 
 _3.760009765625_
 
