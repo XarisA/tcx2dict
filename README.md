@@ -1,6 +1,8 @@
 # tcx2dict
 
-tcx2dict stores tcx data in a dictionary having a (#Lap,#measurement) tuple as a key.
+tcx2dict is a python module that reads data from a TCX file and stores them in a dictionary having a `(#Lap,#measurement)` tuple as a key.
+Export your data from Garmin,Strava or any alternative and get them in python.
+Use this dictionary to analyse the data by yourself.
 
 ### Example:
 
